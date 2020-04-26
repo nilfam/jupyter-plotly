@@ -32,3 +32,5 @@ _*.sh
 trained_models/*.zip
 .ipynb_checkpoints/
 *.html
+run.bat
+venv/
